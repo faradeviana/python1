@@ -1,5 +1,5 @@
 print "  ====================================" 
-print "       Latihan 1 Biodata Rizky FARA        "
+print "       Latihan 1 Biodata FARA        "
 print "  ===================================="
 
 #variabel
